@@ -1,0 +1,7 @@
+E:\AIUB\2021\C# CODE for me\Inheritance Basic\Inheritance Basic\bin\Debug\Inheritance Basic.exe.config
+E:\AIUB\2021\C# CODE for me\Inheritance Basic\Inheritance Basic\bin\Debug\Inheritance Basic.exe
+E:\AIUB\2021\C# CODE for me\Inheritance Basic\Inheritance Basic\bin\Debug\Inheritance Basic.pdb
+E:\AIUB\2021\C# CODE for me\Inheritance Basic\Inheritance Basic\obj\Debug\Inheritance Basic.csprojAssemblyReference.cache
+E:\AIUB\2021\C# CODE for me\Inheritance Basic\Inheritance Basic\obj\Debug\Inheritance Basic.csproj.CoreCompileInputs.cache
+E:\AIUB\2021\C# CODE for me\Inheritance Basic\Inheritance Basic\obj\Debug\Inheritance Basic.exe
+E:\AIUB\2021\C# CODE for me\Inheritance Basic\Inheritance Basic\obj\Debug\Inheritance Basic.pdb

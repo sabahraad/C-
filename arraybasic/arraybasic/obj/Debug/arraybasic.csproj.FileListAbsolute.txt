@@ -1,0 +1,7 @@
+E:\AIUB\2021\C# CODE for me\arraybasic\arraybasic\bin\Debug\arraybasic.exe.config
+E:\AIUB\2021\C# CODE for me\arraybasic\arraybasic\bin\Debug\arraybasic.exe
+E:\AIUB\2021\C# CODE for me\arraybasic\arraybasic\bin\Debug\arraybasic.pdb
+E:\AIUB\2021\C# CODE for me\arraybasic\arraybasic\obj\Debug\arraybasic.csprojAssemblyReference.cache
+E:\AIUB\2021\C# CODE for me\arraybasic\arraybasic\obj\Debug\arraybasic.csproj.CoreCompileInputs.cache
+E:\AIUB\2021\C# CODE for me\arraybasic\arraybasic\obj\Debug\arraybasic.exe
+E:\AIUB\2021\C# CODE for me\arraybasic\arraybasic\obj\Debug\arraybasic.pdb
